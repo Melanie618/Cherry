@@ -1,2 +1,2 @@
 # Cherry
-cherry-markdown use
+cherry-markdown 相关配置
